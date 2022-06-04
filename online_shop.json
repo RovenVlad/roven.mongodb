@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "629b2b3b107fc7f5eaab5468"
+  },
+  "name": "Acer Nitro 5",
+  "price": 20000,
+  "quantity": 5,
+  "vendor": "Acer",
+  "category": "Ноутбук",
+  "comments": [
+    {
+      "name": "Вася Пупкин",
+      "text": "Хороший ноутбук!"
+    },
+    {
+      "name": "Иван Тарасов",
+      "text": "Давно пользуюсь, всё устраивает"
+    }
+  ],
+  "condition": "Новое"
+},{
+  "_id": {
+    "$oid": "629b3425107fc7f5eaab5469"
+  },
+  "name": "Acer Aspire f5",
+  "price": 15000,
+  "quantity": 0,
+  "vendor": "Acer",
+  "category": "Ноутбук",
+  "comments": [
+    {
+      "name": "Вася Пупкин",
+      "text": "Хороший ноутбук!"
+    },
+    {
+      "name": "Иван Тарасов",
+      "text": "Давно пользуюсь, всё устраивает"
+    }
+  ],
+  "condition": "Новое"
+}]
