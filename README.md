@@ -16,4 +16,4 @@
 ---
 
 ![](https://i.imgur.com/LDmDy61.png)
-> В localStorage сохраняется предыдущие параметры поиска в последствии вставляемые в <datalist></datalist>
+> В localStorage сохраняется предыдущие параметры поиска в последствии вставляемые в `<datalist></datalist>`
